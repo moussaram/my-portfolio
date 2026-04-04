@@ -1,3 +1,4 @@
+// Version propre pour déploiement Netlify - 04/04/2026
 import { motion } from "motion/react";
 import { 
   ArrowRight, 
